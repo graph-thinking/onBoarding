@@ -1,5 +1,7 @@
 # Open Science at Graph Thinking - On boarding
 
+Get inspired by how to communicate with such a website - https://github.com/covidgraph/documentation/wiki
+
 Hereinafter the steps how to on board in such a community which is open in all the senses.
 
 The aim is to write data stories or linked data stories as [eggs shape](https://vis.sciencemag.org/eggs/) or 
