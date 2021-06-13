@@ -8,7 +8,7 @@ The aim is to write data stories or linked data stories as [eggs shape](https://
 [covid expert](https://tomaspueyo.medium.com/)
 
 
-0. Async Comm between the group - [make accout slack and join](https://graphthinking.slack.com/) or discord - https://discord.com/
+0. Async Comm between the group - [make accout slack and join](https://graphthinking.slack.com/) or discord - https://discord.com/ or matrix.org 
 
 1. To make your own accout [a collaborative bookmark](https://web.hypothes.is/) to share links and to underline links and be member of the group. - All links here - not anymore via slacks ...
 
